@@ -1,0 +1,254 @@
+html,body {
+	background: #E5E5E5;
+}
+
+.wrapper {
+	position: relative;
+	width: 1440px;
+	height: 10000px;
+	margin: 0 auto;
+	background: #FFFFFF;
+}
+
+.command__title {
+	position: absolute;
+	width: 302px;
+	height: 123px;
+	left: 228px;
+	top: 7064px;
+	font-family: Roboto Condensed;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 50px;
+	line-height: 53px;
+	letter-spacing: -0.04em;
+	text-transform: uppercase;
+	color: #000000;
+}
+
+.command__description {
+	position: absolute;
+	width: 226px;
+	height: 72px;
+	left: 228px;
+	top: 7188px;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 25px;
+	color: #3C3C3B;
+}
+
+.command__button {
+	position: absolute;
+	width: 276px;
+	height: 76px;
+	left: 230px;
+	top: 7343px;
+}
+
+.slide1 {
+	position: absolute;
+	width: 312px;
+	height: 406px;
+	left: 564px;
+	top: 7073.99px;
+	background: #FFFFFF;
+	box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+}
+
+.vasilisa__image {
+	position: absolute;
+	width: 207.35px;
+	height: 207.35px;
+	left: 616px;
+	top: 7088px;
+}
+
+.vasilisa {
+	position: absolute;
+	width: 221px;
+	height: 28px;
+	left: 610px;
+	top: 7300px;
+	font-family: Roboto Condensed;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 24px;
+	line-height: 25px;
+	text-align: center;
+	color: #000000;
+}
+
+.vasilisa__description {
+	position: absolute;
+	width: 242px;
+	height: 34px;
+	left: 599px;
+	top: 7338px;
+	font-family: Roboto;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 25px;
+	text-align: center;
+	color: #AFAFAF;
+}
+
+.blue-stripe1 {
+	position: absolute;
+	width: 80px;
+	height: 8px;
+	left: 679px;
+	top: 7413px;
+}
+
+.slide2 {
+	position: absolute;
+	width: 312px;
+	height: 406px;
+	left: 900px;
+	top: 7073.99px;
+	background: #FFFFFF;
+	box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+}
+
+.victoria__image {
+	position: absolute;
+	width: 207.35px;
+	height: 207.35px;
+	left: 952px;
+	top: 7088px;
+}
+
+.victoria {
+	position: absolute;
+	width: 220px;
+	height: 28px;
+	left: 946px;
+	top: 7300px;
+	font-family: Roboto Condensed;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 24px;
+	line-height: 25px;
+	text-align: center;
+	color: #000000;
+}
+
+.victoria__description {
+	position: absolute;
+	width: 242px;
+	height: 34px;
+	left: 935px;
+	top: 7338px;
+	font-family: Roboto;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 25px;
+	text-align: center;
+	color: #AFAFAF;
+}
+
+.blue-stripe2 {
+	position: absolute;
+	width: 80px;
+	height: 8px;
+	left: 1016px;
+	top: 7413px;
+}
+
+.slide3 {
+	position: absolute;
+	width: 312px;
+	height: 406px;
+	left: 1236px;
+	top: 7063.99px;
+	background: #FFFFFF;
+	box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+}
+
+.alina__image {
+	position: absolute;
+	width: 207.35px;
+	height: 207.35px;
+	left: 1288px;
+	top: 7078px;
+}
+
+.alina {
+	position: absolute;
+	width: 221px;
+	height: 28px;
+	left: 1282px;
+	top: 7290px;
+	font-family: Roboto Condensed;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 24px;
+	line-height: 25px;
+	text-align: center;
+	color: #000000;
+}
+
+.alina__description {
+	position: absolute;
+	width: 242px;
+	height: 34px;
+	left: 1271px;
+	top: 7328px;
+	font-family: Roboto;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 25px;
+	text-align: center;
+	color: #AFAFAF;
+}
+
+.blue-stripe3 {
+	position: absolute;
+	width: 80px;
+	height: 8px;
+	left: 1352px;
+	top: 7403px;
+}
+
+.arrow-left {
+	position: absolute;
+	width: 94px;
+	height: 0px;
+	left: 1062px;
+	top: 7510px;
+	/*border: 1px solid #000000;*/
+	/*box-sizing: border-box;*/
+	/*transform: matrix(-1, 0, 0, 1, 0, 0);*/
+}
+
+.page1 {
+	position: absolute;
+	width: 87px;
+	height: 27px;
+	left: 1175px;
+	top: 7501px;
+	font-family: Montserrat;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 25px;
+	text-align: center;
+	letter-spacing: 0.04em;
+	color: #000000;
+}
+
+.arrow-right {
+	position: absolute;
+	width: 94px;
+	height: 0px;
+	left: 1281px;
+	top: 7510px;
+	/*border: 1px solid #000000;*/
+	/*box-sizing: border-box;*/
+}
